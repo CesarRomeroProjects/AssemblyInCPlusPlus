@@ -1,0 +1,12 @@
+MOV eax 10
+MOV ebx 10
+MOV ecx 10
+MOV edx 10
+CMP 15 15
+CMP 16 16
+CMP 17 20
+MOV eex 15
+MOV efx 15
+MOV egx 15
+MOV ehx 15
+JL 5

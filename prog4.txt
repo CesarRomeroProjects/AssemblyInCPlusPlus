@@ -1,0 +1,6 @@
+MOV eax ebx
+ADD ecx efx
+SUB ecx ehx
+IMUL ecx ecx
+INC epx
+END

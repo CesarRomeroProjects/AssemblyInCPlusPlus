@@ -1,0 +1,9 @@
+MOV eax 10
+JL 5
+JE 10
+CMP 10 20
+INC eax
+MOV ebx 20
+CMP eax ebx
+INC eax
+END

@@ -1,0 +1,14 @@
+MOV eax 10
+MOV ebx 20
+JMP 8
+ADD eax ebx
+ADD 10 ebx
+IMUL 8 eax
+SUB 10 ebx
+MOV ecx 10
+CMP 20 20
+MOV edx 20
+MOV eex 20
+MOV efx 20
+MOV egx 20
+JE 3

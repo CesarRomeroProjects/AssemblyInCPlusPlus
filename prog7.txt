@@ -1,0 +1,9 @@
+MOV eax 10
+MOV ebx 15
+MOV ecx 20
+JMP 20
+MOV edx 25
+ADD 10 eex
+ADD 10 efx
+SUB 10 egx
+END

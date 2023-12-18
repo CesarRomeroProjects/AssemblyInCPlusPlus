@@ -1,0 +1,5 @@
+MOV eax 10
+MOV ebx 20
+MOV ecx 30
+JMP 2
+END

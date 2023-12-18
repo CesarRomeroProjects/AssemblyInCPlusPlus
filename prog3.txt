@@ -1,0 +1,6 @@
+MOV eax 20
+MOV epx 20
+ADD 40 ebx
+SUB 40 ecx
+ADD ecx ebx
+END
